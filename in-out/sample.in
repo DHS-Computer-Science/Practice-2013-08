@@ -1,0 +1,23 @@
+10
+VirginiaBeach 4
+Richmond 5
+Charlottesville 10
+Blacksburg -5
+Roanoke 3
+Fredericksburg 3
+Danville 8
+Harrisonburg 3
+Lynchburg 7
+Arlington 5
+7
+VirginiaBeach Richmond 90
+Richmond Charlottesville 72
+Charlottesville Lynchburg 65
+Richmond Fredericksburg 75
+Fredericksburg Arlington 40
+Lynchburg Roanoke 30
+Roanoke Blacksburg 20
+2
+VirginiaBeach Charlottesville 400
+Charlottesville Lynchburg 75
+VirginiaBeach Richmond 10

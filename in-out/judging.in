@@ -1,0 +1,32 @@
+10
+city0 -38
+city1 92
+city2 -19
+city3 52
+city4 -4
+city5 70
+city6 -18
+city7 -1
+city8 75
+city9 -35
+14
+city0 city9 81
+city1 city0 76
+city2 city1 15
+city3 city2 78
+city4 city3 29
+city5 city4 99
+city6 city1 34
+city6 city5 71
+city7 city2 78
+city7 city6 53
+city8 city7 99
+city9 city3 93
+city9 city7 20
+city9 city8 28
+5
+city7 city5 284
+city2 city6 42
+city3 city6 161
+city5 city0 328
+city7 city1 159
